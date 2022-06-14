@@ -18,7 +18,7 @@ a {
 
 .heading {
   text-align: center;
-  background-color: #f1e60a;
+  background-color: #1F4690;
   color: rgb(37, 37, 37);
   font-family: 'Abril Fatface', cursive;
   font-size: 3rem;
@@ -29,7 +29,7 @@ a {
   width: 2.5rem;
   height: 2.5rem;
   border: 5px solid #f3f3f3;
-  border-top: 6px solid #eded5e;
+  border-top: 6px solid #3A5BA0;
   border-radius: 100%;
   margin: 10rem auto;
   display: none;
@@ -72,7 +72,7 @@ a {
 }
 
 .product-brand {
-  color: #af8600;
+  color: #FFA500;
 }
 
 .product-name {
